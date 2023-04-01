@@ -10,7 +10,7 @@ import Buttons2 from '../../components/Buttons2';
 
 function App() {
   return (
-    <div className='w-full h-full bg-white flex flex-col 2xl:pl-56 2xl:pr-56 bg-slate-100 min-h-screen  md:pl-4 md:pr-4 lg:pl-4 md:pr-4 items-center'>
+    <div className='w-full h-full flex flex-col 2xl:pl-56 2xl:pr-56 bg-slate-100 min-h-screen md:pl-4 md:pr-4 lg:pl-4 md:pr-4 items-center'>
       <div className='flex flex-row 2xl:w-11/12 sm:w-full 2xl:pl-0 2xl:pr-0 pr-4 pl-4 pt-6 justify-between bg-slate-100'>
         <p className='font-semibold text-3xl'>Лучшее</p>
         <div className='flex flex-row gap-8'>
