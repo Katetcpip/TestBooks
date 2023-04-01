@@ -1,6 +1,4 @@
-import star from './star.png'
 import heart from './heart.png'
-import com from './com.png'
 import "./styles.css"
 import book from './Group 916.png'
 
